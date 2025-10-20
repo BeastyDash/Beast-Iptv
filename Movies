@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:1 tvg-name="OBOCHAMA IN" tvg-logo="Movies" group-title="Movies",OBOCHAMA IN
+#EXTINF:1 tvg-name="OBOCHAMA IN" group-title="Movies",OBOCHAMA IN
 https://scontent-hkg4-1.xx.fbcdn.net/o1/v/t2/f2/m412/AQM_TcIOc2xzpPrxkQuEgQ0R5iHb0aoVfoY5GrigMBn8GSjmDnYcBEtIqYd6775gv8bY8oSQcTVEtHjPrqX
-#EXTINF:1 tvg-name="TWITS" tvg-logo="Movies" group-title="Movies",TWITS
+#EXTINF:1 tvg-name="TWITS" group-title="Movies",TWITS
 https://scontent-hkg1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQMWDnNBtv7IjnSWvIIVfKqxyRVa5cfjOVZoVYWpq7c8VK2WpRmbVY3SgtcfW7FBNGT2z-VVEAv9rEeZqnS9
-#EXTINF:1 tvg-name="HITMAN 2" tvg-logo="Movies" group-title="Movies",HITMAN 2
+#EXTINF:1 tvg-name="HITMAN 2" group-title="Movies",HITMAN 2
 https://scontent-hkg1-2.xx.fbcdn.net/o1/v/t2/f2/m69/AQPBaUmEiHeSaqEm738E55oxhgDOW-qZrCzvNhG14wzgi8fY3dNFqodRt7WbA8FZXx2wvvVWkDo8ifDmLABL
-#EXTINF:1 tvg-name="HOW TO TRAIN YOUR DRAGON" tvg-logo="Movies" group-title="Movies",HOW TO TRAIN YOUR DRAGON
+#EXTINF:1 tvg-name="HOW TO TRAIN YOUR DRAGON" group-title="Movies",HOW TO TRAIN YOUR DRAGON
 https://scontent-hkg4-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQNKriSswbTMV75RKEldvaeHirJbqn9_DfM4mfkFBtgiwzjxSzfA9nPYk3pawB1c5zSk6Wf1sKq1DCTFKIO4
