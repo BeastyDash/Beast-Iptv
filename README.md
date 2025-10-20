@@ -5,3 +5,4 @@ ENJOY 1000+ MOVIES,SHOWS,LIVE TV NOW.
 🌟LIVE TV M3U:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Livetv.m3u
 🌟MOVIES M3U:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Movies
 🌟ANIMATED SERIES M3U:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Cartoon%20Series
+🌟4K/8K MOVIES M3U URL:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Movies%20hd
