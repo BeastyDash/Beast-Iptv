@@ -7,3 +7,4 @@ ENJOY 1000+ MOVIES,SHOWS,LIVE TV NOW.
 🌟ANIMATED SERIES M3U:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Cartoon%20Series
 🌟4K/8K MOVIES M3U URL:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Movies%20hd
 🌟🌟🌟ALL BENGALI, HINDI AND URDU CONTENT ARE AVAILABLE🌟🌟🌟
+🟡🔵YOU MAY HAVE BUFFER WHILE PLAYING MOVIES AND TV SHOWS.BUT THEY ARE WORKING FINE
