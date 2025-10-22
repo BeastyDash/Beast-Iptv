@@ -1,6 +1,6 @@
 WELCOME TO THE NEW DESTINATION OF WATCHING IPTV.🔥
 FOR Hindi,URDU, BENGALI USERS ONLY👈
-BEASTYDASH IPTV PROVIDES YOU A LARGE AMOUNT OF MOVIES,TV SHOWS,LIVE TV AND MAÑY MORE.
+BEAST IPTV PROVIDES YOU A LARGE AMOUNT OF MOVIES,TV SHOWS,LIVE TV AND MAÑY MORE.
 ENJOY 1000+ MOVIES,SHOWS,LIVE TV NOW.
 🌟LIVE TV M3U:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Livetv.m3u
 🌟MOVIES M3U:- https://raw.githubusercontent.com/BeastyDash/beasty-dash/refs/heads/main/Movies
